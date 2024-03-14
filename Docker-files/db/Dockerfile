@@ -1,4 +1,4 @@
-FROM mysql:8.0.9
+FROM mysql:8.0.33
 
 LABEL "Project"="Vprofile"
 
